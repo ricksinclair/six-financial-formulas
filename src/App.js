@@ -1,6 +1,6 @@
 import React from "react";
 import "./App.css";
-import Template from "./components/Template";
+import Template from "./components/Layout";
 
 function App() {
   return (
